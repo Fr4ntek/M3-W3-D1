@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 820dc4481416f4d4f82c5b95caafbd7e
+  productGUID: 4490c067a6ef6844bbc4a9ce8f447de7
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -676,10 +676,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 5fd67f98-7f2e-49cb-a4a3-a9c425047be4
+  cloudProjectId: cc289aaa-1bbb-4365-be2e-8fb8978e7ed6
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: M3-W3-D1
+  projectName: M3-W3-D1 2025-06-05_17-49-19
   organizationId: frapocotelosviluppo
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
